@@ -1,0 +1,41 @@
+import 'package:get/get.dart';
+
+class AppStrings{
+  static  String login='login'.tr;
+  static  String desc_welcome='desc_welcome'.tr;
+  static  String studient='studient'.tr;
+  static  String father='father'.tr;
+  static  String next='next'.tr;
+  static  String type_user='type_user'.tr;
+  static  String first_name='first_name'.tr;
+  static  String family_name='family_name'.tr;
+  static  String phone_number='phone_number'.tr;
+  static  String email='email'.tr;
+  static  String password='password'.tr;
+  static  String confirm_password='confirm_password'.tr;
+  static  String required_field='required_field'.tr;
+  static  String new_user='new_user'.tr;
+  static  String invalid_email='invalid_email'.tr;
+  static  String invalid_phone_number='invalid_phone_number'.tr;
+  static  String login_using='login_using'.tr;
+  static  String do_you_have_account='do_you_have_account'.tr;
+  static  String register='register'.tr;
+  static  String invalid_password='invalid_password'.tr;
+  static  String skip='skip'.tr;
+  static  String des1='des1'.tr;
+  static  String birth_date='birth_date'.tr;
+  static  String natinality='natinality'.tr;
+  static  String gender='gender'.tr;
+  static  String do_you_notice_any_difficulties='do_you_notice_any_difficulties'.tr;
+  static  String any_notes='any_notes'.tr;
+  static  String past='past'.tr;
+  static  String male='male'.tr;
+  static  String female='female'.tr;
+  static  String des2='des2'.tr;
+  static  String des3='des3'.tr;
+  static  String des4='des4'.tr;
+  static  String des5='des5'.tr;
+  static  String des6='des6'.tr;
+  static  String des7='des7'.tr;
+  static  String des8='des8'.tr;
+}
